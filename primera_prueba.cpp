@@ -7,7 +7,7 @@ y muestre en la salida estandar el precio del producto al aplicarle IVA
 using namespace std;
 
 int main(){
-	int n1, niva, iva=0;
+	int n1, niva=0;
 	
 	cout<<"digita el precio sin iva: "; cin>>n1;
 	
